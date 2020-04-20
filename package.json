@@ -1,5 +1,5 @@
 {
-  "name": "@sanity/image-url",
+  "name": "@gogaille/sanity-image-url",
   "version": "0.140.18",
   "description": "Tools to generate image urls from Sanity content",
   "source": "src/builder.ts",
